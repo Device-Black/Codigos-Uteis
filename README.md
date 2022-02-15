@@ -1,5 +1,5 @@
 # Lista de funções
-<a href="">Valores aleatorios:</a>
+<a href="https://github.com/Device-Black/Codigos-Uteis/blob/DeviceBlack/random_values.pwn">Valores aleatorios:</a>
 <br>
 iRand(min, max);
 <br>
