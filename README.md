@@ -6,7 +6,7 @@ iRand(min, max);
 fRand(Float:min, Float:max);
 <br>
 <br>
-<a href="">Calculos Matematicos:</a>
+<a href="https://github.com/Device-Black/Codigos-Uteis/blob/DeviceBlack/math_functions.pwn">Funcoes Matematicas:</a>
 <br>
 GetPercent(Float:value, Float:percent);
 <br>
